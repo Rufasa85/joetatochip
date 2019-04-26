@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joetatochip/static/css/main.584f321a.chunk.css",
+    "main.js": "/joetatochip/static/js/main.b9e2d134.chunk.js",
+    "main.js.map": "/joetatochip/static/js/main.b9e2d134.chunk.js.map",
+    "runtime~main.js": "/joetatochip/static/js/runtime~main.5b7a6a21.js",
+    "runtime~main.js.map": "/joetatochip/static/js/runtime~main.5b7a6a21.js.map",
+    "static/js/2.b41502e9.chunk.js": "/joetatochip/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/joetatochip/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/joetatochip/index.html",
+    "precache-manifest.4926b9b10938f016bdeff128d3a9bd15.js": "/joetatochip/precache-manifest.4926b9b10938f016bdeff128d3a9bd15.js",
+    "service-worker.js": "/joetatochip/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/joetatochip/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/joetatochip/static/media/logo.5d5d9eef.svg"
+  }
+}
